@@ -49,7 +49,7 @@
     "AUTO_STATUS_VIEW": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
       "required": false,
-      "value": "false"
+      "value": "true"
     }
   },
   "addons": [
